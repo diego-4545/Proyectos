@@ -1,0 +1,7 @@
+Objetivo del Proyecto:
+El objetivo de este proyecto fue además de cumplir con la tarea, organizar los procesos de un bufete de abogados, esto con sus citas pagos y facturas
+
+Habilidades aprendidas:
+Aprendí a utilizar HTML CCS JavaScript para crear una página web además de MySQL para crear una base de datos relacional y PHP para administrar el backend
+
+Los pasos y especificaciones de este proyecto se pueden ver en el manual técnico

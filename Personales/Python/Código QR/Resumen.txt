@@ -1,0 +1,13 @@
+Objetivo del Proyecto:
+Este proyecto corto tenía el objetivo de entender como funcionan los códigos qr y como poder generar uno
+
+Habilidades aprendidas:
+Aprendí a como instalar librerías en python y utilizarlas además de generar una imagen y guardarla
+
+Los pasos:
+Lo primero que hice fue investigar como funcionan los códigos qr, como se crean y su origen
+De ahí lo que hice fue investigar si había alguna librería que lo pudiera hacer, encontré la librería qrcode
+Instale la librería e hice el código más básico posible para que funcione
+La primera vez no funcionó debido a que se necesitaban la librería PIL para generar imágenes
+La instalé y ya pudo funcionar correctamente
+Posteriormente me puse a jugar con los valores y colores para ver como cambiaban los qr
